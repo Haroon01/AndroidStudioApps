@@ -5,6 +5,5 @@
     <string name="hello_world">Hello Haroon!</string>
     <string name="e_mail">u1953992@hud.ac.uk</string>
     <string name="press_me">Press Me</string>
-    <string name="send_email">About</string>
-    <string name="about_text">This app is about an app which is a very nice app</string>
+    <string name="send_email">Send Email</string>
 </resources>
