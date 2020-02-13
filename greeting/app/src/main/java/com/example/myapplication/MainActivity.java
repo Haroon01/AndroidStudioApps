@@ -1,4 +1,4 @@
-package studio.hud.ac.greeting;
+package com.example.myapplication;
 
 import androidx.appcompat.app.AppCompatActivity;
 

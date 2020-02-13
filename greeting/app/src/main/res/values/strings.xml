@@ -2,8 +2,8 @@
     <string name="app_name">Greeting</string>
     <string name="action_settings">Settings</string>
 
-    <string name="hello_world">Hello Studio 1!</string>
-    <string name="e_mail">u1234567@hud.ac.uk</string>
+    <string name="hello_world">Hello Haroon!</string>
+    <string name="e_mail">u1953992@hud.ac.uk</string>
     <string name="press_me">Press Me</string>
     <string name="send_email">Send Email</string>
 </resources>
